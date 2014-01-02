@@ -1,0 +1,19 @@
+name: "Yebolocal - Websites, Video, Social Media"
+description: "Get a profesionally designed web presence for your business, brand or cause"
+main_keywords: "Websites"
+author: "Yebolocal"
+copyright: "2013"
+
+# Pagination
+
+# Dependencies
+markdown:        rdiscount
+pygments:         true
+
+# Permalinks
+permalink:        /:categories/:title/index.html
+
+# Server
+base_url: /
+
+# Custom vars
