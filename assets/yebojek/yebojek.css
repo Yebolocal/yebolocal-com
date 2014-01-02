@@ -331,6 +331,56 @@ padding: 0 !important;
 /* ------------------------------------------------------------------------------- */
 /* ------------------------------------------------------------------------------- */
 
+.table-main {       /* Can Delete*/
+   border-color: white;
+   border-style: solid;
+   border-width: 10px;
+}
+
+
+.table-heading {
+   padding: 5px;
+   background: black;
+   color: white;
+}
+
+.side-heading {
+   padding: 5px;
+   background: transparent;
+}
+
+.cost-row {
+   padding: 5px;
+   background: grey;
+}
+
+.cost-row-heading {
+   padding: 5px;
+   background: black;
+   color: white;
+}
+
+.row {
+   padding: 1px;
+   background: white;
+   font-size: small;
+}
+
+
+
+.website-design {
+   background: url(../img/A-web-design-tile.png)!important;
+   padding: 20px;
+   max-width: 600px;
+}
+
+
+.web-hosting {
+   background: url(../img/B-web-hosting-tile.png)!important;
+   padding: 20px;
+   max-width: 600px;
+}
+
 
 
 
