@@ -154,7 +154,7 @@ padding: 0 !important;
 /* ------------------------------------------------------------------------------- */
 
 .header-wrapper {
-   background: #00CC00; 
+   background: #00cc00; 
 }
 
 .header-container {
@@ -264,11 +264,11 @@ padding: 0 !important;
 .footer-container a:hover{
    font-size: small;
    text-align: center;  
-   line-height: 1.4em;
+   line-height: 1.1em;
 }
 
 .footer-container p {
-   color: white;   
+   color: black;   
 }
 
 .footer-container a {
