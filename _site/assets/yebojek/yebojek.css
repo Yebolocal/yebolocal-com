@@ -154,6 +154,7 @@ padding: 0 !important;
 /* ------------------------------------------------------------------------------- */
 
 .header-wrapper {
+   background: url(../img/A-web-design-tile.png);
 }
 
 .header-container {
@@ -165,7 +166,7 @@ padding: 0 !important;
 /* ------------------------------------------------------------------------------- */
 
 .nav-wrapper {
-   background: white;
+   background: grey;
 }
 
 .nav-container {
@@ -239,6 +240,7 @@ padding: 0 !important;
 
 .extra-wrapper {
    background: grey;
+   padding: 40px;
    
 }
 
@@ -370,23 +372,34 @@ padding: 0 !important;
    background: url(../img/header-tile.png);
 }
 
-.website-design {
+.website-design-wrapper {
    background: url(../img/A-web-design-tile.png)!important;
-   padding: 20px;
-   margin: 0 auto;
 }
 
-
-.web-hosting {
-   background: url(../img/B-web-hosting-tile.png)!important;
+.website-design {
    padding: 20px;
    margin: 0 auto;
+   max-width: 600px;
+}
+
+.web-hosting-wrapper {
+   background: url(../img/B-web-hosting-tile.png)!important;
+}
+
+.web-hosting {
+   padding: 20px;
+   margin: 0 auto;
+   max-width: 600px;
+}
+
+.domains-wrapper {
+   background: url(../img/C-domains-tile.png) !important;
 }
 
 .domains {
-   background: url(../img/C-domains-tile.png) !important;
    padding: 20px;
    margin: 0 auto;
+   max-width: 600px;
 }
 
 .video-wrapper {
@@ -409,7 +422,24 @@ padding: 0 !important;
    max-width: 600px;
 }
 
+.content-marketing-wrapper {
+   background: url(../img/G-content-marketing-tile.png) !important;
+}
 
+.content-marketing {
+   padding: 20px;
+   margin: 0 auto;
+   max-width: 600px;
+}
 
+.email-marketing-wrapper {
+   background: url(../img/H-email-marketing-tile.png) !important;
+}
+
+.email-marketing {
+   padding: 20px;
+   margin: 0 auto;
+   max-width: 600px;
+}
 
 
