@@ -154,7 +154,6 @@ padding: 0 !important;
 /* ------------------------------------------------------------------------------- */
 
 .header-wrapper {
-   background: #00cc00; 
 }
 
 .header-container {
@@ -166,6 +165,7 @@ padding: 0 !important;
 /* ------------------------------------------------------------------------------- */
 
 .nav-wrapper {
+   background: white;
 }
 
 .nav-container {
@@ -228,7 +228,6 @@ padding: 0 !important;
 /* ------------------------------------------------------------------------------- */
 
 .section-bottom-wrapper {
-   background: 
 }
 
 .section-bottom-container {
@@ -240,6 +239,7 @@ padding: 0 !important;
 
 .extra-wrapper {
    background: grey;
+   
 }
 
 .extra-container {
@@ -360,32 +360,56 @@ padding: 0 !important;
    color: white;
 }
 
-.row {
+.table-row {
    padding: 1px;
    background: white;
    font-size: small;
 }
 
-
+.header-grey {
+   background: url(../img/header-tile.png);
+}
 
 .website-design {
    background: url(../img/A-web-design-tile.png)!important;
    padding: 20px;
-   max-width: 600px;
+   margin: 0 auto;
 }
 
 
 .web-hosting {
    background: url(../img/B-web-hosting-tile.png)!important;
    padding: 20px;
-   max-width: 600px;
+   margin: 0 auto;
 }
 
 .domains {
    background: url(../img/C-domains-tile.png) !important;
    padding: 20px;
+   margin: 0 auto;
+}
+
+.video-wrapper {
+   background: url(../img/E-video-tile.png) !important;
+}
+
+.video {
+   padding: 20px;
+   margin: 0 auto;
    max-width: 600px;
 }
+
+.social-media-wrapper {
+   background: url(../img/F-social-media-tile.png) !important;
+}
+
+.social-media {
+   padding: 20px;
+   margin: 0 auto;
+   max-width: 600px;
+}
+
+
 
 
 
