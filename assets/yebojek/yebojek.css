@@ -373,7 +373,7 @@ padding: 0 !important;
 }
 
 .website-design-wrapper {
-   background: url(../img/A-web-design-tile.png)!important;
+   background: url(../img/D-email-tile.png)!important;
 }
 
 .website-design {
@@ -401,6 +401,17 @@ padding: 0 !important;
    margin: 0 auto;
    max-width: 600px;
 }
+
+.email-wrapper {
+   background: url(../img/A-web-design-tile.png) !important;
+}
+
+.email {
+   padding: 20px;
+   margin: 0 auto;
+   max-width: 600px;
+}
+
 
 .video-wrapper {
    background: url(../img/E-video-tile.png) !important;
