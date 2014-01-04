@@ -12,5 +12,14 @@ This project is still in the early stages of development.
 
 Jebojek Version 0.13 - Copyright (c) 2013 Bernard Hamann
 
-Rethink the colours
+Current
 
+<img src="http://yebolocal.com/assets/img/yebolocal-domains-hosting-banner-3.png" alt="yebolocal-domains-hosting-banner-3" width="1000" height="130" /><div align="right" style="font-size: 0.8em;"><p> To call the <strong>24 &#47; 7 sales &#38; support</strong> call centre from outside the USA please add the USA dailing code &#40; &#43; 1 &#41;</p>
+<p>For sales &#38; support related questions in <strong>South Africa</strong> please call <strong>&#40; 012 &#41; 743 &#45; 6411 </strong>during office hours</p>
+ </div>
+ 
+ Proposed 
+ 
+ <img src="http://yebolocal.com/assets/img/yebolocal-domains-hosting-banner-3.png" alt="yebolocal-domains-hosting-banner-3" width="1000" height="130" /><div align="right" style="font-size: 0.8em; margin-bottom:100px;"><p style="padding:1px;"> To call the <strong>24 &#47; 7 sales &#38; support</strong> call centre from outside the USA please add the USA dailing code &#40; &#43; 1 &#41;</p>
+<p style="padding:1px;">For sales &#38; support related questions in <strong>South Africa</strong> please call <strong>&#40; 012 &#41; 743 &#45; 6411 </strong>during office hours</p>
+ </div>

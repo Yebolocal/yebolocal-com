@@ -94,7 +94,7 @@ a {
 }
 
 a:hover {
-	background: orange;
+	background: #00CC00;
 	text-decoration: none;
 }
 
@@ -332,6 +332,29 @@ padding: 0 !important;
 /* ------------------------------------------------------------------------------- */
 /* ------------------------------------------------------------------------------- */
 /* ------------------------------------------------------------------------------- */
+
+.my-button {
+   padding: 5px;
+   padding-left: 10px;
+   padding-right: 10px;
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+   border-bottom-left-radius: 10px;
+   border-bottom-right-radius: 10px;
+   border-style: outset;
+   
+}
+
+.my-button a {
+    color: white;
+    font-size: 1.5em;
+}
+
+.green-button {
+   background: #00CC00;
+}
+
+
 
 .table-main {       /* Can Delete*/
    border-color: white;
