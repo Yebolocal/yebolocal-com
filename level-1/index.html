@@ -14,62 +14,10 @@ a Website and Professional Email </h1>
             <p>Domain Name - Many Options</p>
 <br>
 <br>
-<div class="website-design-wrapper">
-<div class="website-design">
-<br>
-<h2 style="color: white; font-size: 4em"> - A - <br> Website Design <br> Options</h2>
- <br>
-<br>
- <p style="background: white">  Option 1: </p>
- <h3> Use the Do it Yourself - Easy Website Builder </h3>
- <p> This option includes free website hosting and email </p>
- {% include tables/website-builders.html %}
-<br>
-<br>
- <p style="background: white">  Option 2: </p>
- <h3> Doc to Website - Converter </h3>
-  {% include tables/doc-to-website.html %}
-<br>
-<br>
-<br>
- <p style="background: white">  Option 3: </p>
- <h3> We Design your Website </h3>
-   {% include tables/web-design.html %}
-<br>
-<br>
-</div> <! -- end of website-design div -->
-</div> <! -- end of website-design-wrapper div -->
-<div class="web-hosting-wrapper">
-<div class="web-hosting">
-<br>
-<h2 style="color: white; font-size: 4em"> - B - <br>Web Hosting <br>Options</h2>
-<br>
-<br>
-{% include tables/web-hosting.html %} 
-<br>
-</div> <! -- end of web-hosting div -->
-</div> <! -- end of web-hosting-wrapper div -->
-<div class="domains-wrapper">
-<div class="domains">
-<br>
-<h2 style="color: white; font-size: 4em"> - C - <br>Domain Name <br>Options</h2>
-<br>
-<br>
-{% include tables/domains.html %} 
-<br>
-</div> <! -- end of domains div -->
-</div> <! -- end of domains-wrapper div -->
-<div class="email-wrapper">
-<div class="email">
-<br>
-<h2 style="color: white; font-size: 4em"> - D - <br>Email Only<br>Options</h2>
-<br>
-<h3 style="color:white"> You DO NOT need to order this if you ordered Web Hosting or if you choose to use the Do it yourself, Easy Website Builder </h3>
-<br>
-{% include tables/email.html %} 
-<br>
-</div> <! -- end of email div -->
-</div> <! -- end of email-wrapper div -->
+{% include blocks/website-design.html %} 
+{% include blocks/web-hosting.html %} 
+{% include blocks/domains.html %} 
+{% include blocks/email.html %} 
 <br>
 <br>
 <h1> Once you have a website <br>

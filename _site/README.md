@@ -11,3 +11,6 @@ This project is still in the early stages of development.
 * * * * * * * * * * * * * * * * * * * * * *
 
 Jebojek Version 0.13 - Copyright (c) 2013 Bernard Hamann
+
+Rethink the colours
+

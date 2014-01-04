@@ -154,7 +154,7 @@ padding: 0 !important;
 /* ------------------------------------------------------------------------------- */
 
 .header-wrapper {
-   background: url(../img/A-web-design-tile.png);
+   background: url(../img/tile-green.png);
 }
 
 .header-container {
@@ -369,88 +369,47 @@ padding: 0 !important;
 }
 
 .header-grey {
-   background: url(../img/header-tile.png);
+   background: url(../img/tile-grey.png);
+}
+
+.content-block {
+   padding: 20px;
+   margin: 0 auto;
+   max-width: 600px;
 }
 
 .website-design-wrapper {
-   background: url(../img/D-email-tile.png)!important;
-}
-
-.website-design {
-   padding: 20px;
-   margin: 0 auto;
-   max-width: 600px;
+   background: url(../img/tile-orange.png);
 }
 
 .web-hosting-wrapper {
-   background: url(../img/B-web-hosting-tile.png)!important;
-}
-
-.web-hosting {
-   padding: 20px;
-   margin: 0 auto;
-   max-width: 600px;
+   background: url(../img/tile-blue.png);
 }
 
 .domains-wrapper {
-   background: url(../img/C-domains-tile.png) !important;
-}
-
-.domains {
-   padding: 20px;
-   margin: 0 auto;
-   max-width: 600px;
+   background: url(../img/tile-yellow.png);
 }
 
 .email-wrapper {
-   background: url(../img/A-web-design-tile.png) !important;
-}
-
-.email {
-   padding: 20px;
-   margin: 0 auto;
-   max-width: 600px;
+   background: url(../img/tile-light-grey.png);
 }
 
 
 .video-wrapper {
-   background: url(../img/E-video-tile.png) !important;
-}
-
-.video {
-   padding: 20px;
-   margin: 0 auto;
-   max-width: 600px;
+   background: url(../img/tile-red.png);
 }
 
 .social-media-wrapper {
-   background: url(../img/F-social-media-tile.png) !important;
-}
-
-.social-media {
-   padding: 20px;
-   margin: 0 auto;
-   max-width: 600px;
+   background: url(../img/tile-purple.png);
 }
 
 .content-marketing-wrapper {
-   background: url(../img/G-content-marketing-tile.png) !important;
-}
-
-.content-marketing {
-   padding: 20px;
-   margin: 0 auto;
-   max-width: 600px;
+   background: url(../img/tile-light-grey.png);
 }
 
 .email-marketing-wrapper {
-   background: url(../img/H-email-marketing-tile.png) !important;
+   background: url(../img/tile-light-grey.png);
 }
 
-.email-marketing {
-   padding: 20px;
-   margin: 0 auto;
-   max-width: 600px;
-}
 
 
