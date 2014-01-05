@@ -12,7 +12,6 @@
 /*
 /*****************************************************************************/
 
-
 /* !Global Reset */
 
 * {
@@ -433,6 +432,23 @@ padding: 0 !important;
 .email-marketing-wrapper {
    background: url(../img/tile-light-grey.png);
 }
+
+.green {
+   background: url(../img/tile-green.png);
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+   border-bottom-left-radius: 10px;
+   border-bottom-right-radius: 10px;
+}
+
+.green p{
+   color: white
+}
+
+.orange {
+   background: url(../img/tile-orange.png);
+}
+
 
 
 
