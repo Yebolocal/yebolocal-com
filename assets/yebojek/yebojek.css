@@ -400,6 +400,10 @@ padding: 0 !important;
    max-width: 600px;
 }
 
+.header-wrapper {
+   background: url(../img/tile-green.png);
+}
+
 .website-design-wrapper {
    background: url(../img/tile-orange.png);
 }
@@ -434,7 +438,7 @@ padding: 0 !important;
 }
 
 .recomended {
-   background: url(../img/tile-green.png);
+   background: black ;
    border-top-left-radius: 10px;
    border-top-right-radius: 10px;
    border-bottom-left-radius: 10px;
@@ -447,6 +451,10 @@ padding: 0 !important;
 
 .orange {
    background: url(../img/tile-orange.png);
+}
+
+.grey {
+   background: url(../img/tile-light-grey.png);
 }
 
 
