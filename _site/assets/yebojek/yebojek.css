@@ -332,6 +332,15 @@ padding: 0 !important;
 /* ------------------------------------------------------------------------------- */
 /* ------------------------------------------------------------------------------- */
 
+
+.header-container-do-it-for-you {
+   background: grey;
+}
+
+.nav-container-do-it-for-you {
+   background: url(../img/tile-green.png);
+}
+
 .my-button {
    padding: 5px;
    padding-left: 10px;
