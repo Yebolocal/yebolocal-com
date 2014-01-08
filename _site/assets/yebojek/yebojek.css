@@ -132,6 +132,7 @@ a:focus {
 
 .section-top-wrapper {
 padding: 0 !important;
+background: url(../img/tile-green.png);
 }
 
 .section-top-container {
@@ -142,7 +143,7 @@ padding: 0 !important;
 /* ------------------------------------------------------------------------------- */
 
 .topbar-wrapper {
-   background: url(../img/tile-green.png);
+   
 }
 
 .topbar-container {
@@ -153,7 +154,6 @@ padding: 0 !important;
 /* ------------------------------------------------------------------------------- */
 
 .header-wrapper {
-   background: grey;
 }
 
 .header-container {
