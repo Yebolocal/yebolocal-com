@@ -419,6 +419,12 @@ padding: 0 !important;
    max-width: 800px;
 }
 
+.content-block-1000 {
+   padding: 20px;
+   margin: 0 auto;
+   max-width: 1000px;
+}
+
 .header-wrapper {
    background: url(../img/tile-green.png);
 }
