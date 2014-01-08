@@ -142,7 +142,7 @@ padding: 0 !important;
 /* ------------------------------------------------------------------------------- */
 
 .topbar-wrapper {
-   background: #00CC00; 
+   background: url(../img/tile-green.png);
 }
 
 .topbar-container {
@@ -153,11 +153,11 @@ padding: 0 !important;
 /* ------------------------------------------------------------------------------- */
 
 .header-wrapper {
-   background: url(../img/tile-green.png);
-   min-height: 150px;
+   background: grey;
 }
 
 .header-container {
+
 }
 
 
