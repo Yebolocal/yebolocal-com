@@ -198,6 +198,10 @@ background: url(../img/tile-green.png);
    max-width: 960px; 
    margin: 0 auto;
    background: white;
+   border-left-color: grey;
+   border-left-style: outset;
+   border-right-color: grey;
+   border-right-style: inset;
 }
 
 /* ------------------------------------------------------------------------------- */
@@ -247,6 +251,10 @@ background: url(../img/tile-green.png);
    margin: 0 auto;
 }
 
+.section-bottom-container p, .section-bottom-container a {
+   font-size: 0.9em;
+}
+
 /* ------------------------------------------------------------------------------- */
                                        /* Extra */
 /* ------------------------------------------------------------------------------- */
@@ -277,9 +285,9 @@ background: url(../img/tile-green.png);
 .footer-container p,
 .footer-container a,
 .footer-container a:hover{
-   font-size: small;
    text-align: center;  
    line-height: 1.1em;
+   font-size: 0.8em;
 }
 
 .footer-container p {
