@@ -37,7 +37,7 @@ bootstrap added the padding*/
 }
 
 .site-container {
-   margin: 0 auto;
+   
              /*    This is where you set the width of you websites active area, if you want the site to span the whole browser window just remove this   max-width: 960px; */
    
 }
@@ -136,6 +136,7 @@ background: url(../img/tile-green.png);
 }
 
 .section-top-container {
+   margin: 0 auto;
 }
 
 /* ------------------------------------------------------------------------------- */
@@ -190,9 +191,13 @@ background: url(../img/tile-green.png);
 /* ------------------------------------------------------------------------------- */
 
 .section-content-wrapper {
+   background: black;
 }
 
 .section-content-container {
+   max-width: 960px; 
+   margin: 0 auto;
+   background: white;
 }
 
 /* ------------------------------------------------------------------------------- */
@@ -210,7 +215,7 @@ background: url(../img/tile-green.png);
 /* ------------------------------------------------------------------------------- */
 
 .content-wrapper {
-   background: white;
+
 }
 
 .content-container {
@@ -239,6 +244,7 @@ background: url(../img/tile-green.png);
 }
 
 .section-bottom-container {
+   margin: 0 auto;
 }
 
 /* ------------------------------------------------------------------------------- */
