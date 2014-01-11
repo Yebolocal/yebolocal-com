@@ -245,10 +245,14 @@ background: url(../img/tile-green.png);
 /* ------------------------------------------------------------------------------- */
 
 .section-bottom-wrapper {
+   background: white;
 }
 
 .section-bottom-container {
    margin: 0 auto;
+   border-top-style: ridge;
+   border-top-size: 5px;
+   border-top-color: white;
 }
 
 .section-bottom-container p, .section-bottom-container a {
@@ -262,6 +266,7 @@ background: url(../img/tile-green.png);
 .extra-wrapper {
    background: grey;
    padding: 40px;
+   margin-top:5px;
    
 }
 
@@ -274,6 +279,7 @@ background: url(../img/tile-green.png);
 /* ------------------------------------------------------------------------------- */
 
 .footer-wrapper {
+   background: grey;
 }
 
 .footer-container {
