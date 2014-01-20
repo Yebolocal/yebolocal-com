@@ -264,7 +264,7 @@ background: url(../img/tile-green.png);
 /* ------------------------------------------------------------------------------- */
 
 .extra-wrapper {
-   background: grey;
+   background: url(../img/tile-green.png);
    padding: 40px;
    margin-top:5px;
    
@@ -279,7 +279,8 @@ background: url(../img/tile-green.png);
 /* ------------------------------------------------------------------------------- */
 
 .footer-wrapper {
-   background: grey;
+   background: black;
+ 
 }
 
 .footer-container {
@@ -297,7 +298,7 @@ background: url(../img/tile-green.png);
 }
 
 .footer-container p {
-   color: black;   
+   color: grey;   
 }
 
 .footer-container a {
