@@ -22,7 +22,7 @@
 body {
    padding-top: 0 !important;      /*  Removed the padding at the top of the page - This might conflict with bootstrap, not sure if 
 bootstrap added the padding*/
-   background: grey;
+   background:url(../img/tile-green.png) ;
 }
 
 /* ------------------------------------------------------------------------------- */
@@ -32,8 +32,6 @@ bootstrap added the padding*/
 /* ------------------------------------------------------------------------------- */
 
 .site-wrapper {
-   background: grey;  
-   
 }
 
 .site-container {
@@ -131,6 +129,7 @@ a:focus {
 /* ------------------------------------------------------------------------------- */
 
 .section-top-wrapper {
+margin-top: 35px;
 padding: 0 !important;
 background: url(../img/tile-green.png);
 }
@@ -144,7 +143,6 @@ background: url(../img/tile-green.png);
 /* ------------------------------------------------------------------------------- */
 
 .topbar-wrapper {
-   
 }
 
 .topbar-container {
